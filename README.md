@@ -9,3 +9,12 @@ of their raised funds once the contribution have been made. According to a resea
 
 #### Our idea
 It is to implement a decentralised application on Ethereum Network using blockchain technology. Anyone can start a campaign through the application. The contributors can donate the money to the smart contract that we will deploy. Then the campaign starter request the smart contract to create a request to transfer the required funds to the desired vendor. Every contributor agrees to the created request and consensus if formed. If the number of approvals is greater than 50% of the total contributors or donators, the manager of the raised request can finalise the request and the transaction takes place from the contract to the vendors. In this process, the contributors also gets incentivised with the token from the smart contract at the time they contribute the funds for the first time. We are also using Machine Learning to suggest the contributors for the similar fundraising requests they can respond or donate money to.
+
+
+
+
+![screenshot 2018-10-26 at 6 29 40 pm](https://user-images.githubusercontent.com/35381035/47567874-4188e580-d94d-11e8-8b67-5981f56cd773.png)
+
+
+Link to the presentation       https://prezi.com/view/VZswVEf91m6nBgau8zj7/
+
