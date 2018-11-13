@@ -18,3 +18,7 @@ It is to implement a decentralised application on Ethereum Network using blockch
 
 Link to the presentation       https://prezi.com/view/VZswVEf91m6nBgau8zj7/
 
+
+### Tools required
+ ##### Metamask
+ ##### node package manager
